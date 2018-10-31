@@ -410,6 +410,7 @@
 				6E15AFC0216E8DE8005F381B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6E15AFC1216E8DE8005F381B /* Build configuration list for PBXNativeTarget "AdapTree2UITests" */ = {
 			isa = XCConfigurationList;
@@ -418,6 +419,7 @@
 				6E15AFC3216E8DE8005F381B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
