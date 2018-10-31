@@ -9,7 +9,9 @@
 import UIKit
 
 class FirstViewController: UIViewController {
-
+    var answers = [Int]()
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
