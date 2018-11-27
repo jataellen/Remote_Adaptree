@@ -14,6 +14,7 @@
 		6E15AFAC216E8DE8005F381B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E15AFAB216E8DE8005F381B /* Assets.xcassets */; };
 		6E15AFAF216E8DE8005F381B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E15AFAD216E8DE8005F381B /* LaunchScreen.storyboard */; };
 		6E15AFBA216E8DE8005F381B /* AdapTree2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E15AFB9216E8DE8005F381B /* AdapTree2UITests.swift */; };
+		FC5E27D221A7308C00B6D958 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC5E27D121A7308C00B6D958 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		6E15AFB5216E8DE8005F381B /* AdapTree2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AdapTree2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E15AFB9216E8DE8005F381B /* AdapTree2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdapTree2UITests.swift; sourceTree = "<group>"; };
 		6E15AFBB216E8DE8005F381B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC5E27D121A7308C00B6D958 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		6E15AF96216E8DE7005F381B = {
 			isa = PBXGroup;
 			children = (
+				FC5E27D121A7308C00B6D958 /* File.swift */,
 				6E15AFA1216E8DE8005F381B /* AdapTree2 */,
 				6E15AFB8216E8DE8005F381B /* AdapTree2UITests */,
 				6E15AFA0216E8DE8005F381B /* Products */,
@@ -203,6 +206,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E15AFA7216E8DE8005F381B /* SecondViewController.swift in Sources */,
+				FC5E27D221A7308C00B6D958 /* File.swift in Sources */,
 				6E15AFA3216E8DE8005F381B /* AppDelegate.swift in Sources */,
 				6E15AFA5216E8DE8005F381B /* FirstViewController.swift in Sources */,
 			);
